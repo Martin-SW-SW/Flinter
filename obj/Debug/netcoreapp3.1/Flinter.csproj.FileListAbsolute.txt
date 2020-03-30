@@ -1,0 +1,11 @@
+C:\c#_code\Flinter\bin\Debug\netcoreapp3.1\Flinter.exe
+C:\c#_code\Flinter\bin\Debug\netcoreapp3.1\Flinter.deps.json
+C:\c#_code\Flinter\bin\Debug\netcoreapp3.1\Flinter.runtimeconfig.json
+C:\c#_code\Flinter\bin\Debug\netcoreapp3.1\Flinter.runtimeconfig.dev.json
+C:\c#_code\Flinter\bin\Debug\netcoreapp3.1\Flinter.dll
+C:\c#_code\Flinter\bin\Debug\netcoreapp3.1\Flinter.pdb
+C:\c#_code\Flinter\obj\Debug\netcoreapp3.1\Flinter.csprojAssemblyReference.cache
+C:\c#_code\Flinter\obj\Debug\netcoreapp3.1\Flinter.AssemblyInfoInputs.cache
+C:\c#_code\Flinter\obj\Debug\netcoreapp3.1\Flinter.AssemblyInfo.cs
+C:\c#_code\Flinter\obj\Debug\netcoreapp3.1\Flinter.dll
+C:\c#_code\Flinter\obj\Debug\netcoreapp3.1\Flinter.pdb
